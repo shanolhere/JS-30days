@@ -11,12 +11,12 @@ Here, are some JS web Apps to sharpen your JS skills. Give it a try if you want!
       <td><a href="https://codesandbox.io/s/day-1-audiobox-o15b38">View Source Code</a></td>
     </tr>
     <tr>
-      <th>Day-2</th>
+      <th>Day-2 Progress Steps</th>
       <td><a href="https://453ui.csb.app/">watch Demo</a></td>
       <td><a href="https://codesandbox.io/s/day-2-progresssteps-0wtdh3">View Source Code</a></td>
     </tr>
     <tr>
-      <th>Day-2 Progress Steps</th>
+      <th>Day-</th>
       <td><a href="">watch Demo</a></td>
       <td><a href="">View Source Code</a></td>
     </tr>
