@@ -70,5 +70,5 @@ Here, are some JS web Apps to sharpen your JS skills. Give it a try if you want!
 
 ## **Developer**
 
-- **Portfolio** - [PortfolioLink](https://sabiya.netlify.app/)
+- **Portfolio**  - [PortfolioLink](https://sabiya.netlify.app/)
 - **Twitter** - [TwitterLink](https://twitter.com/nerd_fswd)
