@@ -16,9 +16,14 @@ Here, are some JS web Apps to sharpen your JS skills. Give it a try if you want!
       <td><a href="https://codesandbox.io/s/day-2-progresssteps-0wtdh3">View Source Code</a></td>
     </tr>
     <tr>
-      <th>Day-</th>
-      <td><a href="">watch Demo</a></td>
-      <td><a href="">View Source Code</a></td>
+      <th>Day-2 Clock</th>
+      <td><a href="https://z8m8xh.csb.app/">watch Demo</a></td>
+      <td><a href="https://codesandbox.io/s/day-2-clock-z8m8xh">View Source Code</a></td>
+    </tr>
+    <tr>
+      <th>Day-3 Playing with CSS variables in JS</th>
+      <td><a href="https://wfxjcs.csb.app/">watch Demo</a></td>
+      <td><a href="https://codesandbox.io/s/day-3-palyingwithcssvariables-wfxjcs">View Source Code</a></td>
     </tr>
     <tr>
       <th>Day-</th>
