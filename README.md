@@ -31,9 +31,9 @@ Here, are some JS web Apps to sharpen your JS skills. Give it a try if you want!
       <td><a href="https://codesandbox.io/s/day-4-arraycardio-v7vl6o">View Source Code</a></td>
     </tr>
     <tr>
-      <th>Day-</th>
-      <td><a href="">watch Demo</a></td>
-      <td><a href="">View Source Code</a></td>
+      <th>Day-5 Flex Image Gallery</th>
+      <td><a href="https://m298pk.csb.app/">watch Demo</a></td>
+      <td><a href="https://codesandbox.io/s/day-5-flex-image-gallery-m298pk?file=/index.html">View Source Code</a></td>
     </tr>
     <tr>
       <th>Day-</th>
